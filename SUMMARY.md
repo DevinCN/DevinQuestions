@@ -1,7 +1,7 @@
 # Summary
 
 * [说明](README.md)
-* [第1部分 Java 面试相关](part-1.md)
+* [第1部分 Java 基础知识](part-1.md)
   * [第1章 Java 概述](part-1/chapter-1.md)
   * [第2章 Java 语言语法](part-1/chapter-2.md)
   * [第3章 Java 面向对象编程](part-1/chapter-3.md)
