@@ -5,7 +5,7 @@
   * [第1章 Java 概述](part-1/chapter-1.md)
   * [第2章 Java 语言语法](part-1/chapter-2.md)
   * [第3章 Java 面向对象编程](part-1/chapter-3.md)
-  * [第4章 ](part-1/chapter-4.md)
+  * [第4章 Java 常见API](part-1/chapter-4.md)
   * [第5章 ](part-1/chapter-5.md)
   * [第6章 ](part-1/chapter-6.md)
   * [第7章 ](part-1/chapter-7.md)
