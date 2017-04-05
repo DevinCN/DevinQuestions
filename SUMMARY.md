@@ -14,7 +14,7 @@
   * [第10章 Java 设计模式](part-1/chapter-10.md)
   * [第11章 Java Stream](part-1/chapter-11.md)
   * [第12章 ](part-1/chapter-12.md)
-* [第2部分 Android 面试相关](part-2.md)
+* [第2部分 Android 基础知识](part-2.md)
 * [第3部分 数据库面试相关](part-3.md)
 * [第4部分 项目研究相关](part-4.md)
 * [第5部分 谈谈自己](part-5.md)
