@@ -42,4 +42,6 @@
   * [9.动态规划算法](part-6/chapter-9.md)
   * [10.朴素贝叶斯分类算法](part-6/chapter-10.md)
 * [附录 2：程序员面试常考算法](part-7.md)
+  * [第1章 常考排序算法](part-7/chapter-1.md)
+  * [第2章 常考搜索算法](part-7/chapter-2.md)
 
