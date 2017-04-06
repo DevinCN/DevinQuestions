@@ -21,8 +21,6 @@
 
 ### 算法的实现：
 
-
-```
 package com;  
   
 public class InsertSort {  
@@ -58,8 +56,6 @@ public class InsertSort {
         }  
           
     }  
-}  
-
-```
+}
 
 
