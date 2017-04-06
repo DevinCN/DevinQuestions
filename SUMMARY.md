@@ -55,4 +55,5 @@
   * [第2章 常考搜索算法](part-7/chapter-2.md)
     * [2 1](part-7/chapter-2/2-1.md)
     * [2 2](part-7/chapter-2/2-2.md)
+* [附录 3：八大排序算法Java](part-8.md)
 
