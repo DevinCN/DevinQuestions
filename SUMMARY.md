@@ -53,7 +53,7 @@
     * [1.1.冒泡排序](part-7/chapter-1/1-1.md)
     * [1.2.快速排序](part-7/chapter-1/1-2.md)
   * [第2章 常考搜索算法](part-7/chapter-2.md)
-    * [2 1](part-7/chapter-2/2-1.md)
-    * [2 2](part-7/chapter-2/2-2.md)
+    * [2.1.二分查找](part-7/chapter-2/2-1.md)
+    * [2.2.](part-7/chapter-2/2-2.md)
 * [附录 3：Java八大排序算法](part-8.md)
 
