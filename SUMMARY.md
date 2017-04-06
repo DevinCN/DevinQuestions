@@ -41,4 +41,5 @@
   * [8.Dijkstra算法](part-6/chapter-8.md)
   * [9.动态规划算法](part-6/chapter-9.md)
   * [10.朴素贝叶斯分类算法](part-6/chapter-10.md)
+* [附录 2：程序员面试常考算法](part-7.md)
 
