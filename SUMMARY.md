@@ -35,6 +35,7 @@
   * [序言](part-4/chapter-1.md)
   * [公司项目总结优化](part-4/chapter-2.md)
   * [开源项目](part-4/chapter-3.md)
+  * [自有项目](part-4/chapter-4.md)
 * [《我的路》](part-5.md)
   * [chapter 1](part-5/chapter-1.md)
   * [chapter 2](part-5/chapter-2.md)
