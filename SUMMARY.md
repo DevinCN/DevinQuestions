@@ -33,6 +33,7 @@
   * [chapter 1](part-3/chapter-1.md)
   * [chapter 2](part-3/chapter-2.md)
   * [chapter 3](part-3/chapter-3.md)
+* part 9
 
 ## 经验积累
 
