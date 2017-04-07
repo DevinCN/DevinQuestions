@@ -1,6 +1,6 @@
 # Summary
 
-## 基础部分
+## 基础知识
 
 * [说明](README.md)
 * [《Java 基础》](part-1.md)
