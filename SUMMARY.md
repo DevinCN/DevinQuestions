@@ -40,7 +40,7 @@
   * [chapter 1](part-9/chapter-1.md)
 * [《算法》](part-10.md)
   * [chapter 1](part-10/chapter-1.md)
-* [part 11](part-11.md)
+* [《网络基础》](part-11.md)
 
 ## 【高级技能】
 
