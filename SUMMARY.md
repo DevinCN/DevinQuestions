@@ -1,5 +1,7 @@
 # Summary
 
+## 基础部分
+
 * [说明](README.md)
 * [《Java 基础》](part-1.md)
   * [第01章 Java 概述](part-1/chapter-1.md)
@@ -31,8 +33,9 @@
   * [chapter 1](part-3/chapter-1.md)
   * [chapter 2](part-3/chapter-2.md)
   * [chapter 3](part-3/chapter-3.md)
-  
-  
+
+## 经验积累
+
 * [《项目经验》](part-4.md)
   * [序言](part-4/chapter-1.md)
   * [公司项目](part-4/chapter-2.md)
@@ -53,6 +56,9 @@
   * [《遇到的坑》](part-5/chapter-3.md)
   * [《正在做的事》](part-5/chapter-4.md)
   * [《未来》](part-5/chapter-5.md)
+
+## 补充内容
+
 * [附录 1:10大基础算法](part-6.md)
   * [1.快速排序算法](part-6/chapter-1.md)
   * [2.堆排序算法](part-6/chapter-2.md)
