@@ -13,7 +13,7 @@
   * [第09章 Java 数据结构](part-1/chapter-9.md)
   * [第10章 Java 设计模式](part-1/chapter-10.md)
   * [第11章 Java Stream](part-1/chapter-11.md)
-  * [第12章 ](part-1/chapter-12.md)
+  * [第12章 总结](part-1/chapter-12.md)
 * [《Android 基础》](part-2.md)
   * [第01章 AndroidManifest](part-2/chapter-1.md)
   * [第02章 UI](part-2/chapter-2.md)
