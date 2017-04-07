@@ -59,7 +59,7 @@
 
 ## 补充内容
 
-* [附录 1:10大基础算法](part-6.md)
+* [附录 1：10大基础算法](part-6.md)
   * [1.快速排序算法](part-6/chapter-1.md)
   * [2.堆排序算法](part-6/chapter-2.md)
   * [3.归并排序](part-6/chapter-3.md)
