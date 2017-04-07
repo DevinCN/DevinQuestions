@@ -33,7 +33,10 @@
   * [chapter 1](part-3/chapter-1.md)
   * [chapter 2](part-3/chapter-2.md)
   * [chapter 3](part-3/chapter-3.md)
-* part 9
+* [《数据结构》](part-9.md)
+  * [chapter 1](part-9/chapter-1.md)
+* [《算法》](part-10.md)
+  * [chapter 1](part-10/chapter-1.md)
 
 ## 经验积累
 
