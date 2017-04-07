@@ -89,5 +89,8 @@
     * [2.2.](part-7/chapter-2/2-2.md)
 * [附录 3：Java八大排序算法](part-8.md)
   * [chapter 1](part-8/chapter-1.md)
----
+
+## 【结语】
+
 * [最后的话](x.md)
+
