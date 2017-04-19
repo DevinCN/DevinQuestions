@@ -29,7 +29,7 @@
   * [第08章 多线程](part-2/chapter-8.md)
 * [《数据库基础》](part-3.md)
   * [第01章 SQL 语句基础](part-3/chapter-1.md)
-  * [第02章 SQLit 基础](part-3/chapter-2.md)
+  * [第02章 SQLite 基础](part-3/chapter-2.md)
 * [* 《数据结构》](part-9.md)
   * [chapter 1](part-9/chapter-1.md)
 * [* 《算法》](part-10.md)
